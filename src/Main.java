@@ -8,7 +8,8 @@ public class Main {
 
         int a = scanner.nextInt(); // = 99;
 
-        System.out.println("input: " + a);  df
+        System.out.println("input: " + a);
+        System.out.println();
 
         scanner.close();
     }
