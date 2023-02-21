@@ -11,6 +11,7 @@ public class Main {
         System.out.println("input: " + a);
         System.out.println();
 
+
         scanner.close();
     }
 }
